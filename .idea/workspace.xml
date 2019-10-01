@@ -4,7 +4,6 @@
     <list default="true" id="43591c67-ed22-4b0d-b65b-5c9b4159c78b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Projet 1 Java Bis/methode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Projet 1 Java Bis/methode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/methode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methode.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RHIr8u3d6D7cyStteYI51Uenbn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -80,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569350563905</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Rajout d'un return renvoyant le mode de jeu selectionné&#10;Echec de l'ajout de l'exception Inpumismactch">
+      <created>1569403165228</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569403165228</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Objectif n°1 pour projet 1 terminé. &#10;Rajout d'un default das le switch pour gérer les erreurs de nombres" />
-    <option name="LAST_COMMIT_MESSAGE" value="Objectif n°1 pour projet 1 terminé. &#10;Rajout d'un default das le switch pour gérer les erreurs de nombres" />
+    <MESSAGE value="Rajout d'un return renvoyant le mode de jeu selectionné&#10;Echec de l'ajout de l'exception Inpumismactch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rajout d'un return renvoyant le mode de jeu selectionné&#10;Echec de l'ajout de l'exception Inpumismactch" />
   </component>
 </project>
